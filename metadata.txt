@@ -1,0 +1,9 @@
+<<gbif download metadata>>
+  Status: SUCCEEDED
+  DOI: 10.15468/dl.67punz
+  Format: SIMPLE_CSV
+  Download key: 0044726-260226173443078
+  Created: 2026-03-17T21:14:14.668+00:00
+  Modified: 2026-03-17T21:42:08.450+00:00
+  Download link: https://api.gbif.org/v1/occurrence/download/request/0044726-260226173443078.zip
+  Total records: 82896
